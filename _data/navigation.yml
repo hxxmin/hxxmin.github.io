@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+#  - title: "Honors and Awards"
+#    url: "/#-honors-and-awards"
 
 #   - title: "Educations"
 #    url: "/#-educations"
 
-  - title: "Projects"
-    url: "/#-projects"
+#  - title: "Projects"
+#    url: "/#-projects"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+#  - title: "Academic Services"
+#    url: "/#-academic-services"
