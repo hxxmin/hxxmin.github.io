@@ -21,16 +21,16 @@ I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and E
 
 My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
 
-> See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
+> See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)<br>
 > See my publication from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
 Best way to reach me is an email hm dot cho at hd dot com.
 
 # 🎉 News
-- *(2024)* 📃 A paper titled '**Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship**' was accepted for publication in the _IEEE/ASME Transactions on Mechatronics_. 
-- *(2023)* 📃 A paper titled '**Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching**' was published in the _IEEE Transactions on Instrumentation and Measurement_. 
-- *(Oct 2022)* 📃 A paper titled '**SP-SLAM: Surfel-Point Simultaneous Localization and Mapping**' was published in the _IEEE/ASME Transactions on Mechatronics_. 
-- *(Apr 2018)* 📃 A paper titled '**Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing**' was published in the _IEEE/ASME Transactions on Mechatronics_. 
+- *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE/ASME Transactions on Mechatronics_. 
+- *(2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Transactions on Instrumentation and Measurement_. 
+- *(Oct 2022)* 📃 A paper titled **'SP-SLAM: Surfel-Point Simultaneous Localization and Mapping'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
+- *(Apr 2018)* 📃 A paper titled **'Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
