@@ -24,7 +24,7 @@ My research interests include _robotics, SLAM, and computer vision_. I aspire to
 See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
 See my publication from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
-Best way to reach me is an email ayoungk at snu dot ac dot kr.
+Best way to reach me is an email hm dot cho at hd dot com.
 
 # 🎉 News
 - *(2024)* 📃 A paper titled '**Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship**' was accepted for publication in the _IEEE/ASME Transactions on Mechatronics_. 
