@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Seongwon Lee"
-description              : "Research Scientist @ ETRI (Military Service)"
-repository               : "sungonce/sungonce.github.io"
+title                    : "Hae Min Cho"
+description              : "Senior Researcher @ HD Hyundai Robotics"
+repository               : "hxxmin/hxxmin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Seongwon Lee"
-  avatar           : "images/seongwonlee.jpg"
+  name             : "Hae Min Cho"
+  avatar           : "images/CHM.jpg"
   bio              :
-  location         : "Daejeon, South Korea"
-  cv               : "https://drive.google.com/file/d/11JOSPNvPueqDmAP_dmNoHoNHaKVTLIqX/view?usp=sharing"
+  location         : "Gyeonggi-do, South Korea"
+  cv               : "https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ"
-  email            : "sungonce@etri.re.kr"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ"
+  email            : "hm.cho@hd.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,15 +38,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : sungonce # e.g., "github username"
+  github           : hxxmin # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : sungonce # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/04/3865-2.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0002-7077-5595 # e.g., "https://orcid.org/xxxx"
+  linkedin         : 조해민 # e.g., "linkedin username"
+  dblp             : https://dblp.org/pid/204/6756.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : https://orcid.org/0000-0001-8527-0242 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
