@@ -15,8 +15,11 @@ main:
 #   - title: "Educations"
 #    url: "/#-educations"
 
-#  - title: "Projects"
-#    url: "/#-projects"
+  - title: "Projects"
+    url: "/#-projects"
+    
+  - title: "Patents"
+    url: "/#-patents"
 
 #  - title: "Academic Services"
 #    url: "/#-academic-services"
