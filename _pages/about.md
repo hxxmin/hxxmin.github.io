@@ -21,26 +21,38 @@ I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and E
 
 My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
 
-> See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)<br>
-> See my publication from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
+> See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
 
 Best way to reach me is an email hm dot cho at hd dot com.
 
 # 🎉 News
-- *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE/ASME Transactions on Mechatronics_. 
-- *(2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Transactions on Instrumentation and Measurement_. 
+- *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
+- *(2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
 - *(Oct 2022)* 📃 A paper titled **'SP-SLAM: Surfel-Point Simultaneous Localization and Mapping'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 - *(Apr 2018)* 📃 A paper titled **'Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
-<!---
-* ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
-  Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
-  The British Machine Vision Conference (<span style="color:skyblue">**BMVC**</span>) Nov, 2023 <br>
-  [[page]](https://proceedings.bmvc2023.org/825/) [[paper]](https://papers.bmvc2023.org/0825.pdf) [[supp]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_supp.zip) [[poster]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_poster.pdf) [[video]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_video.mp4)
+* ## Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship <br>
+  **Hae Min Cho**, Euntai Kim <br>
+  IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>) 2024
 
+* ## Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching <br>
+  **Hae Min Cho**, Euntai Kim <br>
+  IEEE Access 2023
+
+* ## SP-SLAM: Surfel-Point Simultaneous Localization and Mapping <br>
+  **Hae Min Cho**, HyungGi Jo, Euntai Kim <br>
+  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>) Oct, 2022
+
+* ## Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing <br>
+  HyungGi Jo, **Hae Min Cho**, Euntai Kim <br>
+  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>) Apr, 2018
+  
+> See my full publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
+
+<!---
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
   **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2023 <br>
