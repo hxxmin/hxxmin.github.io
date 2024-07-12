@@ -34,7 +34,7 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 # 📚 Publications 
 
 > See my full publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
-> 
+
 * ## Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship <br>
   **Hae Min Cho**, Euntai Kim <br>
   IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>) 2024
@@ -84,26 +84,44 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
   - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
 - *(Oct 2022)* 1st Yonsei AI Workshop (2022)
   - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
+-->
+
 
 # 💼 Projects
-- *(Aug 2023 - Current)* Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
-  - Funding from Information & Communications Technology Promotion (IITP)
-- *(Apr 2022 - Dec 2022)* Development of Deep Learning-Based Fine-Matching Technology using ToF Depth Sensor
-  - Funding from LG Electronics
-- *(May 2021- Dec 2021)* Development of Deep Learning-Based Image Retrieval Technology using ToF Depth Sensor
-  - Funding from LG Electronics
-- *(Apr 2020 - Feb 2021)* Development of Front-Down SLAM Technology Based on ToF Depth Sensor
-  - Funding from LG Electronics
-- *(Apr 2019 - Dec 2019)* Development of Depth Map Generation Technology using Continuous Stereo Images
-  - Funding from Hyundai AutoEver
-- *(Oct 2017 - Feb 2019)* Development of Integration Module Technology for Localization and Autonomous Driving Control Based on Multi-modal Sensor for Wheel Drive Service Robot
-  - Funding from Ministry of Trade, Industry and Energy (MOTIE)
-- *(Oct 2016 - Oct 2017)* Development of Robot Autonomous Driving Technology using Laser Scanner
-  - Funding from  Hitachi-LG Data Storage
-- *(May 2016 - Apr 2020)* Development of Robot Intelligence Technology for Mobility with Learning Capability
-toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
-  - Funding from Ministry of Trade, Industry and Energy (MOTIE)
+- *(2020 - 2021)* Development of Robot-centric 3D SLAM based on RGB-D camera
+  - Funded by Hyundai Motor Group
+- *(2020 - 2021)* Development of Forward-downward SLAM Algorithm using ToF Depth Sensor
+  - Funded by LG Electronics
+- *(2019)* Development of Depth Map Generation using Continuous Stereo Images
+  - Funded by Hyundai MNSoft 2019
+- *(2016)* 13th Hyundai Motor Group Future Motor Technology Autonomous Vehicle Competition–Developed an System of Autonomous Vehicle
+  - Funded by Hyundai Motor Group
+- *(2016 - 2017)* Development of Robot Autonomous Driving Technology using Laser Scanner
+  - Funded by  Hitachi-LG Data Storage
+- *(2016 - 2020)* Development of Robot Intelligence Technology for Mobility with Learning Capability Toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
+  - Funded by Ministry of Trade, Industry and Energy (MOTIE)
+- *(2013 - 2018)* Development of Hydraulic Robot Control Technology based on Accurate and Fast Force Control for Complex Task
+  - Funded by Ministry of Trade, Industry and Energy (MOTIE)
 
+# 💡 Patents
+- "Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature"
+  - E Kim, **HM Cho**
+  - Korea - Application No. 10-2021-0111212
+- "Apparatus for Building Grid Map and Method there of"
+  - E Kim, HG Jo, **HM Cho**, S Lee
+  - Korea - Application No. 10-2017-0171099
+  - Korea - Registration No. 10-2095842
+- "Method and Apparatus for Estimating Location of a Moving Object and Generating Maps Sharing a Map between Particles"
+  - E Kim, HG Jo, **HM Cho**, H. Jo
+  - Korea - Application No. 10-2016-0161159
+  - Korea - Registration No. 10-1965296
+- "Method and apparatus for producing three-dimensional image"
+  - E Kim, **HM Cho**, H. Jo, HG Jo
+  - Korea - Application No. 10-2016-0060975
+  - Korea - Registration No. 10-1748674
+
+
+<!---
 # 💻 Academic Services
 - Invited Talks
    - *(Jan 2024)* Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
