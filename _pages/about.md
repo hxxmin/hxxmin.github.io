@@ -104,19 +104,15 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
   - Funded by Ministry of Trade, Industry and Energy (MOTIE)
 
 # 💡 Patents
-- "Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature"
-  - E Kim, **HM Cho**
+- "Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature", E Kim, **HM Cho**
   - Korea - Application No. 10-2021-0111212
-- "Apparatus for Building Grid Map and Method there of"
-  - E Kim, HG Jo, **HM Cho**, S Lee
+- "Apparatus for Building Grid Map and Method there of", E Kim, HG Jo, **HM Cho**, S Lee
   - Korea - Application No. 10-2017-0171099
   - Korea - Registration No. 10-2095842
-- "Method and Apparatus for Estimating Location of a Moving Object and Generating Maps Sharing a Map between Particles"
-  - E Kim, HG Jo, **HM Cho**, H. Jo
+- "Method and Apparatus for Estimating Location of a Moving Object and Generating Maps Sharing a Map between Particles", E Kim, HG Jo, **HM Cho**, H. Jo
   - Korea - Application No. 10-2016-0161159
   - Korea - Registration No. 10-1965296
-- "Method and apparatus for producing three-dimensional image"
-  - E Kim, **HM Cho**, H. Jo, HG Jo
+- "Method and apparatus for producing three-dimensional image", E Kim, **HM Cho**, H. Jo, HG Jo
   - Korea - Application No. 10-2016-0060975
   - Korea - Registration No. 10-1748674
 
