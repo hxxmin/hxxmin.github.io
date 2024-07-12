@@ -21,7 +21,7 @@ I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and E
 
 My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
 
-See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
+See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)<br>
 See my publication from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
 Best way to reach me is an email hm dot cho at hd dot com.
