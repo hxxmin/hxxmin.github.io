@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Hae Min Cho**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
-
 I am **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea, in 2023 and 2015. I am currently working in the _field of robotics_ as a senior researcher at HD Hyundai Robotics. 
 
 My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
