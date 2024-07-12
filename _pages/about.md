@@ -17,25 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Seongwon Lee**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
+I'm **Hae Min Cho**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
 
-I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
+I am **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea, in 2023 and 2015. I am currently working in the _field of robotics_ as a senior researcher at HD Hyundai Robotics. 
 
+My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
+
+See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
+See my publication from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
+
+Best way to reach me is an email ayoungk at snu dot ac dot kr.
 
 # 🎉 News
-- *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
-- *(Oct 2023)* 🧑🏻‍🏫  Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
-- *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
-- *(Feb 2023)* 📃 One paper has been accepted at CVPR 2023.
-- *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
-- *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at the 1ˢᵗ Yonsei AI Workshop.
-- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **Oral presentation** in CVPR 2022.
-- *(Mar 2022)* 📃 Two papers have been accepted at CVPR 2022. 
-- *(Jul 2021)* 📃 One paper has been accepted at ICCV 2021. 
+- *(2024)* 📃 A paper titled '**Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship**' was accepted for publication in the _IEEE/ASME Transactions on Mechatronics_. 
+- *(2023)* 📃 A paper titled '**Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching**' was published in the _IEEE Transactions on Instrumentation and Measurement_. 
+- *(Oct 2022)* 📃 A paper titled '**SP-SLAM: Surfel-Point Simultaneous Localization and Mapping**' was published in the _IEEE/ASME Transactions on Mechatronics_. 
+- *(Apr 2018)* 📃 A paper titled '**Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing**' was published in the _IEEE/ASME Transactions on Mechatronics_. 
 
 # 📚 Publications 
-[Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ)
+[Google Scholar full list](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
+<!---
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
   The British Machine Vision Conference (<span style="color:skyblue">**BMVC**</span>) Nov, 2023 <br>
@@ -111,3 +113,5 @@ toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
       - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
       - IEEE Transactions on Automation Science and Engineering (T-ASE)
       - International Journal of Control, Automation and Systems (IJCAS)
+
+-->
