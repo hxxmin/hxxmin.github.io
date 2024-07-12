@@ -32,8 +32,9 @@ Best way to reach me is an email hm dot cho at hd dot com.
 - *(Apr 2018)* 📃 A paper titled **'Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 
 # 📚 Publications 
-[Google Scholar full list](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
+> See my full publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
+> 
 * ## Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship <br>
   **Hae Min Cho**, Euntai Kim <br>
   IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>) 2024
@@ -50,8 +51,6 @@ Best way to reach me is an email hm dot cho at hd dot com.
   HyungGi Jo, **Hae Min Cho**, Euntai Kim <br>
   IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>) Apr, 2018
   
-> See my full publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
-
 <!---
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
   **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim <br>
