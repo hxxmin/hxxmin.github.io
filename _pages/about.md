@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea, in 2023 and 2015. I am currently working in the _field of robotics_ as a senior researcher at HD Hyundai Robotics. 
+I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea, in 2023 and 2015. I am currently working in the _field of robotics_ as a senior researcher at HD Hyundai Robotics. My research interests include _robotics, SLAM, and computer vision_. 
 
-My research interests include _robotics, SLAM, and computer vision_. I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
+I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
 
 > See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
 
