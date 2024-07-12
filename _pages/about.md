@@ -23,7 +23,7 @@ My research interests include _robotics, SLAM, and computer vision_. I aspire to
 
 > See my full [cv](https://drive.google.com/file/d/1JdzgcCRaTDYMFwCKOSoIecaq5g0VMp8p/view?usp=drive_link)
 
-Best way to reach me is an email hm dot cho at hd dot com.
+Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 🎉 News
 - *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
