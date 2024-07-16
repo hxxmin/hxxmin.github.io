@@ -37,19 +37,19 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 * #### Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship <br>
   **Hae Min Cho**, Euntai Kim <br>
-  IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>) 2024
+  IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>), 2024
 
 * #### Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching <br>
   **Hae Min Cho**, Euntai Kim <br>
-  IEEE Access 2023
+  IEEE Access, Feb, 2023
 
 * #### SP-SLAM: Surfel-Point Simultaneous Localization and Mapping <br>
   **Hae Min Cho**, HyungGi Jo, Euntai Kim <br>
-  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>) Oct, 2022
+  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>), Oct, 2022
 
 * #### Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing <br>
   HyungGi Jo, **Hae Min Cho**, Euntai Kim <br>
-  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>) Apr, 2018
+  IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>), Apr, 2018
   
 <!---
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
