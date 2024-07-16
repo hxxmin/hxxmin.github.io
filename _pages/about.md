@@ -105,7 +105,7 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 💡 Patents
 -  _E Kim, **HM Cho**_, "Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature"
-  - Korea - Application No. 10-2021-0111212
+   - Korea - Application No. 10-2021-0111212
 - _E Kim, HG Jo, **HM Cho**, S Lee_, "Apparatus for Building Grid Map and Method there of"
   - Korea - Application No. 10-2017-0171099
   - Korea - Registration No. 10-2095842
