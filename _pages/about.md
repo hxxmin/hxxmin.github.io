@@ -29,7 +29,7 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 - *(Aug 2024)* 💡 A Patent titled **'특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (
 Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature) '** has been successfully registered. 
 - *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
-- *(2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
+- *(Feb 2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
 - *(Oct 2022)* 📃 A paper titled **'SP-SLAM: Surfel-Point Simultaneous Localization and Mapping'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 - *(Apr 2018)* 📃 A paper titled **'Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
 
