@@ -105,8 +105,8 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 💡 Patents
 -  _E Kim, **HM Cho**_, "특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature)"
-  - Korea - Registration No. 10-2692572
-  - Korea - Application No. 10-2021-0111212
+   - Korea - Registration No. 10-2692572
+   - Korea - Application No. 10-2021-0111212
 - _E Kim, HG Jo, **HM Cho**, S Lee_, "격자지도 생성 장치 및 방법 (Apparatus for Building Grid Map and Method there of)"
   - Korea - Registration No. 10-2095842
   - Korea - Application No. 10-2017-0171099
