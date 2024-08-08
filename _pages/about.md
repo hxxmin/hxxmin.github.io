@@ -26,6 +26,8 @@ I aspire to integrate robots seamlessly into our daily lives, enhancing the way 
 Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 🎉 News
+- *(Aug 2024)* 💡 A Patent titled **'특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (
+Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature) '** has been successfully registered. 
 - *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
 - *(2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
 - *(Oct 2022)* 📃 A paper titled **'SP-SLAM: Surfel-Point Simultaneous Localization and Mapping'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
@@ -86,7 +88,6 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
   - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
 -->
 
-
 # 💼 Projects
 - *(2020 - 2021)* Development of Robot-centric 3D SLAM based on RGB-D camera
   - Funded by Hyundai Motor Group
@@ -104,17 +105,18 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
   - Funded by Ministry of Trade, Industry and Energy (MOTIE)
 
 # 💡 Patents
--  _E Kim, **HM Cho**_, "Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature"
-   - Korea - Application No. 10-2021-0111212
-- _E Kim, HG Jo, **HM Cho**, S Lee_, "Apparatus for Building Grid Map and Method there of"
-  - Korea - Application No. 10-2017-0171099
+-  _E Kim, **HM Cho**_, "특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature)"
+  - Korea - Registration No. 10-2692572
+  - Korea - Application No. 10-2021-0111212
+- _E Kim, HG Jo, **HM Cho**, S Lee_, "격자지도 생성 장치 및 방법 (Apparatus for Building Grid Map and Method there of)"
   - Korea - Registration No. 10-2095842
-- _E Kim, HG Jo, **HM Cho**, H. Jo_, "Method and Apparatus for Estimating Location of a Moving Object and Generating Maps Sharing a Map between Particles"
-  - Korea - Application No. 10-2016-0161159
+  - Korea - Application No. 10-2017-0171099
+- _E Kim, HG Jo, **HM Cho**, H. Jo_, "파티클 간에 지도를 공유하는 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and Apparatus for Estimating Location of a Moving Object and Generating Maps Sharing a Map between Particles)"
   - Korea - Registration No. 10-1965296
-- _E Kim, **HM Cho**, H. Jo, HG Jo_, "Method and apparatus for producing three-dimensional image"
-  - Korea - Application No. 10-2016-0060975
+  - Korea - Application No. 10-2016-0161159
+- _E Kim, **HM Cho**, H. Jo, HG Jo_, "3차원 영상 생성 방법 및 장치 (Method and apparatus for producing three-dimensional image)"
   - Korea - Registration No. 10-1748674
+  - Korea - Application No. 10-2016-0060975
 
 
 <!---
