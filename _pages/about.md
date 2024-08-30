@@ -104,6 +104,8 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
   - Funded by Ministry of Trade, Industry and Energy (MOTIE)
 
 # 💡 Patents
+-  _**HM Cho**_, "복수의 카메라 및 라이다를 이용하여 지도를 작성하는 이동체 및 이의 지도 작성 방법 (MOBILE APPARATUS CREATING MAP USING MULTIPLE CAMERAS AND LIDAR AND METHOD FOR CREATING MAP THEREOF)"
+   - Korea - Application No. 2024-0116975
 -  _E Kim, **HM Cho**_, "특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature)"
    - Korea - Registration No. 10-2692572
    - Korea - Application No. 10-2021-0111212
