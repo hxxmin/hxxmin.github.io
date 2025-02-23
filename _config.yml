@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hae Min Cho"
-description              : "Senior Researcher @ HD Hyundai Robotics"
+description              : "Assistant Professor @ Gachon University"
 repository               : "hxxmin/hxxmin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ"
-  email            : "hm.cho@hd.com"
+  email            : "hmcho9@gachon.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
