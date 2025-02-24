@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Hae Min Cho**, who received the Ph.D. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea, in 2023 and 2015. I am currently working in the _field of robotics_ as a senior researcher at HD Hyundai Robotics. My research interests include _robotics, SLAM, and computer vision_. 
+I'm **Hae Min Cho**, currently serving as an _Assistant Professor_ at _Gachon University_. I received my B.S. (2015) and Ph.D. (2023) degrees in Electrical and Electronic Engineering from Yonsei University, Seoul, Korea. Prior to joining Gachon University, I worked as a senior researcher at HD Hyundai Robotics. My research interests include _robotics, SLAM, and Unmanned Vehicles_. 
 
 I aspire to integrate robots seamlessly into our daily lives, enhancing the way we live and interact with technology.
 
@@ -26,6 +26,7 @@ I aspire to integrate robots seamlessly into our daily lives, enhancing the way 
 Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 🎉 News
+- *(Mar 2025)* 🏫 Appointed as an Assistant Professor at Gachon University.
 - *(Aug 2024)* 💡 A Patent titled **'특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature) '** has been successfully registered. 
 - *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
 - *(Feb 2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
