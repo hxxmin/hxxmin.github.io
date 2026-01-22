@@ -26,17 +26,25 @@ I aspire to integrate robots seamlessly into our daily lives, enhancing the way 
 Best way to reach me is an email hm dot maisoyu at gmail dot com.
 
 # 🎉 News
+- *(Oct 2025)* 📃 A paper titled **'Robust Visual–Inertial Odometry via Multi-Scale Deep Feature Extraction and Flow-Consistency Filtering'** was accepted for publication in the _Applied Sciences_. 
 - *(Mar 2025)* 🏫 Appointed as an Assistant Professor at Gachon University.
 - *(Aug 2024)* 💡 A Patent titled **'특징점-서펠 융합을 이용한 이동체의 위치 추정 및 지도 작성 방법 및 장치 (Method and apparatus for estimating location of a moving object and generating map using fusion of point feature and surfel feature) '** has been successfully registered. 
-- *(2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
+- *(Jun 2024)* 📃 A paper titled **'Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship'** was accepted for publication in the _IEEE Transactions on Instrumentation and Measurement_. 
 - *(Feb 2023)* 📃 A paper titled **'Dynamic Object-Aware Visual Odometry (VO) Estimation Based on Optical Flow Matching'** was published in the _IEEE Access_. 
 - *(Oct 2022)* 📃 A paper titled **'SP-SLAM: Surfel-Point Simultaneous Localization and Mapping'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
+
+<!---
 - *(Apr 2018)* 📃 A paper titled **'Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing'** was published in the _IEEE/ASME Transactions on Mechatronics_. 
+-->
 
 # 📚 Publications 
 
 > See my full publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=06VbCaAAAAAJ)
 
+* #### Robust Visual–Inertial Odometry via Multi-Scale Deep Feature Extraction and Flow-Consistency Filtering <br>
+  **Hae Min Cho** <br>
+  Applied Sciences, Oct, 2025
+  
 * #### Finite-Plane Simultaneous Localization and Mapping (FP-SLAM): A New RGB-D SLAM Exploiting Interfeature Relationship <br>
   **Hae Min Cho**, Euntai Kim <br>
   IEEE Transactions on Instrumentation and Measurement (<span style="color:skyblue">**TIM**</span>), Jun, 2024
@@ -48,12 +56,13 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 * #### SP-SLAM: Surfel-Point Simultaneous Localization and Mapping <br>
   **Hae Min Cho**, HyungGi Jo, Euntai Kim <br>
   IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>), Oct, 2022
+  
+<!---
 
 * #### Efficient Grid-Based Rao–Blackwellized Particle Filter SLAM With Interparticle Map Sharing <br>
   HyungGi Jo, **Hae Min Cho**, Euntai Kim <br>
   IEEE/ASME Transactions on Mechatronics (<span style="color:skyblue">**TMECH**</span>), Jan, 2018
   
-<!---
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
   **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2023 <br>
@@ -89,6 +98,8 @@ Best way to reach me is an email hm dot maisoyu at gmail dot com.
 -->
 
 # 💼 Projects
+- *(2025 - 2026)* RGBD 센서를 활용한 VSLAM 기능 개발
+  - Funded by Nuebility
 - *(2020 - 2021)* Development of Robot-centric 3D SLAM based on RGB-D camera
   - Funded by Hyundai Motor Group
 - *(2020 - 2021)* Development of Forward-downward SLAM Algorithm using ToF Depth Sensor
